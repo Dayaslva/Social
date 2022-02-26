@@ -1,2 +1,2 @@
 # Apresentação Social
- Exercicio HTML página simples.
+ Exercício HTML página simples!
